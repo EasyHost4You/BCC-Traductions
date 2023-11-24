@@ -25,4 +25,5 @@ Pour intégrer la nouvelle version française du script, veuillez suivre les ét
 2- Localisez le fichier du script d'origine.
 3- Copiez-collez le contenu du fichier décompressé à la place du script d'origine avec le même nom.
 
-Script BCC traduit en français
+Bryce Canyon County (BCC) Scripts à ete traduit en français par Moi meme
+Official link : https://github.com/BryceCanyonCounty
