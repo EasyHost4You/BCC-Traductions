@@ -6,12 +6,6 @@ I'm excited to announce that I've completely reworked the translations of BCC sc
 
 A simple like, share, or comment would be awesome to spread the word about these improvements. Thank you for your support!
 
-To integrate the new French version of the script, please follow the steps below
-
-1- Unzip the downloaded file.
-2- Locate the original script file.
-3- Copy and paste the content of the unzipped file in place of the original script with the same name.
-
 ------------------------------------------------------------------------------
 Salut à tous !
 
